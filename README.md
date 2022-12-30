@@ -91,7 +91,7 @@ yarn install
 yarn dev
 ```
 
-Lembre-se de criar um arquivo .env para colocar as variáveis de ambiente exemplificadas no arquivo .env.example com os seus dados pessoais.
+<!-- Lembre-se de criar um arquivo .env para colocar as variáveis de ambiente exemplificadas no arquivo .env.example com os seus dados pessoais. -->
 
 Quando terminar, a página da aplicação web será aberta no navegador.
 
