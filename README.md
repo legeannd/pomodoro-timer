@@ -3,7 +3,7 @@
 </p>
 
 # [Pomodoro Timer](https://pomodoro-timer-legeannd.vercel.app/)
-![stacks](https://img.shields.io/badge/ReactJS-v18.2.0-brightgreen) ![stacks](https://img.shields.io/badge/UUID-v9.0.0-brightgreen) ![stacks](https://img.shields.io/badge/Stack-Typescript-blue) ![GitHub](https://img.shields.io/github/license/legeannd/todo-list-react)
+![stacks](https://img.shields.io/badge/React%20Router-v6.6.1-brightgreen) ![stacks](https://img.shields.io/badge/React%20Hook%20Form-v7.41.2-brightgreen) ![stacks](https://img.shields.io/badge/Immer-v9.0.16-brightgreen) ![stacks](https://img.shields.io/badge/Styled%20Components-v5.3.6-brightgreen) ![stacks](https://img.shields.io/badge/Stack-Typescript-blue) ![GitHub](https://img.shields.io/github/license/legeannd/pomodoro-timer)
 
 <p align="center">
   <img width="800" src="uploads/web.gif"/>
@@ -17,7 +17,7 @@
 
 ## About the project <a id="section-en_us"></a>
 
-This is a to-do app made in React and Typescript where the user can add their tasks and complete tasks already created. The app uses the browser's local storage to save the user's tasks and retrieve them later, even if the browser has been closed.
+This is a pomodoro timer app made in React and Typescript where the user can create a new countdown to work in their tasks only during the time they need to. The app saves locally all the previous tasks in addition to the finish status of each one, showing if the user has completed or interrupted a previous countdown.
 
 ## Content
   * [Techs](#techs)
@@ -26,9 +26,10 @@ This is a to-do app made in React and Typescript where the user can add their ta
 
 ## Techs <a id="techs"></a>
 
-- [x] React
-- [x] Typescript
-- [x] Local Storage
+- [x] React Router DOM
+- [x] React Hook Form
+- [x] Immer
+- [x] Styled Components
 
 ## How to execute the project <a id="installation"></a>
 To execute the project, you'll need to have Node and NPM or Yarn installed to setup all the dependencies.
@@ -57,7 +58,7 @@ After finishing installation, the web page will be open in your browser.
 
 ## Sobre o projeto <a id="secao-pt_br"></a>
 
-Este é um aplicativo de lista de tarefas feito em React e Typescript onde o usuário pode adicionar suas tarefas e completar tarefas já criadas. O aplicativo usa o armazenamento local do navegador para salvar as tarefas do usuário e recuperá-las posteriormente, mesmo que o navegador tenha sido fechado.
+Este é um aplicativo de timer pomodoro feito em React e Typescript onde o usuário pode criar uma nova contagem regressiva para trabalhar em suas tarefas apenas durante o tempo que precisar. O aplicativo salva localmente todas as tarefas anteriores, além do status de conclusão de cada uma, mostrando se o usuário concluiu ou interrompeu uma contagem regressiva anterior.
 
 ## Conteúdos
   * [Tecnologias](#tecnlogias)
@@ -66,9 +67,10 @@ Este é um aplicativo de lista de tarefas feito em React e Typescript onde o usu
 
 ## Tecnologias <a id="tecnologias"></a>
 
-- [x] React
-- [x] Typescript
-- [x] Local Storage
+- [x] React Router DOM
+- [x] React Hook Form
+- [x] Immer
+- [x] Styled Components
 
 ## Como executar o projeto <a id="instalacao"></a>
 Para executar o projeto, você irá precisar ter o Node e o NPM ou Yarn instalados para baixar as dependências.
